@@ -2,10 +2,31 @@
 site_name: Doulos Khristos
 site_url: https://doulos_khristos.com
 
+# nav:
+#   - Home: index.md
+#   - Discussion Plan:
+#       - Put on the Armor:
+#         - Overview: discussions/PutOnTheArmor/overview.md
+#         - Session 1: discussions/PutOnTheArmor/1_session.md
+#         - Session 2: discussions/PutOnTheArmor/2_session.md
+#         - Session 3: discussions/PutOnTheArmor/3_session.md
+#   - Topics:
+#       - Gnosticism:
+#           - Postmodern Thought: topics/controversies/gnosticism/Postmodern-Thought/content.md
+#           - Lessons:
+#               - Overview: topics/controversies/gnosticism/Postmodern-Thought/lessons/0_overview.md
+#               - Lesson 1: topics/controversies/gnosticism/Postmodern-Thought/lessons/1_lesson.md
+#               - Lesson 2: topics/controversies/gnosticism/Postmodern-Thought/lessons/2_lesson.md
+#               - Lesson 3: topics/controversies/gnosticism/Postmodern-Thought/lessons/3_lesson.md
+#               - Lesson 4: topics/controversies/gnosticism/Postmodern-Thought/lessons/4_lesson.md
+#               - Lesson 5: topics/controversies/gnosticism/Postmodern-Thought/lessons/5_lesson.md
+#               - Lesson 6: topics/controversies/gnosticism/Postmodern-Thought/lessons/6_lesson.md
+
+
 theme:
   name: material
-  logo: assets/logo/doulos-khristos_icon.png
-  favicon: assets/logo/doulos-khristos_icon.png
+  logo: assets/logo/doulos_khristos_icon.png
+  favicon: assets/logo/doulos_khristos_icon.png
   features:
     - navigation.tabs
     - navigation.sections

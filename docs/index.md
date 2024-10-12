@@ -4,93 +4,16 @@
 
 ---
 
-## Discussion Plan
+## Current Study
+We are reviewing the Armor of God. It's important for a Christian to understand the spiritual warfare taking place. There are threats from without and within. Unless we stay rooted in the Word and hold fast to the faith, we are vulnerable to backsliding and deception.
 
----
+## Coming Up
+Righteousness and salvation are fundamental to our faith. We are called to be holy--set apart--and to offer our bodies as living sacrifices. We are told that love is the Torah's fulfillment. However, do we understand how that love is expressed?
 
-*Be diligent to present yourself approved to God as a workman who does not need to be ashamed, accurately handling the word of truth*
+Soon, we will unpack YHWH's expectations for His people. He dwells in eternity, in perfection, and is unchanging. He's spoken across generations, including those cast from Eden, Abraham and the patriarchs. He led Israel out of Egypt and gave them a law at Sinai.
 
-### Spiritual Gifts
+In the first century AD, God's promise of salvation--and a new covenant--was accomplished on Golgotha. What was once our condemnation had become a means of reconciliation. Christ fulfilled the Torah and His blood can remove our sin if we believe and are reborn into his Kingdom.
 
-### [Put on the Armor](discussions/PutOnTheArmor/0overview.md)
-- **Session 1** -----> [link](discussions/PutOnTheArmor/1session.md)
-- **Session 2** -----> [link](discussions/PutOnTheArmor/2session.md)
-- **Session 3** -----> [link](discussions/PutOnTheArmor/3session.md)
+But conversion is not enough. We are called to be diligent and conform ourselves to the image of Christ. For many early Christians, that meant observing Judaic traditions. However, when Christ sent Paul to minister to the gentiles, it was clear that believers must understand the difference between shadow and substance.
 
-### Grafted into Israel
-
-### The Greatest Commandment
-
-### Running to Win
-
-### A Quiet Life
-
-## Topics
-
----
-
-### Jewish Hermeneutics
-
-### Foreknowledge
-- **Predestination**
-
-### Election
-
-### Free Will
-
-### Grace
-
-### Faith
-
-### Repentance
-
-### Salvation
-
-### Israel
-
-### Discipleship
-
-### Ministry
-
-### Remnant
-
-### Prophecy
-- **A Warning**
-- **A Call to Repentance**
-
-### Eschatology
-
-### Controversies
-- **Kingdom Now**
-- **Seeker Sensitive**
-- **Hebrew Roots**
-- **Replacement Theology**
-- **TULIP**
-- **Gnosticism**
-    - Post-Modernism: Michael Heiser
-
-## Resources
-
----
-### Books
-
-### Articles
-
-### Videos
-
-### Teachers
-
-### Spiritual Gifts Test
-
-### Application and Refinement
-
-### Word Studies
-- **Love** --> ἀγάπη (agapē)
-- **Joy** --> 
-- **Peace** --> 
-- **Patience** --> 
-- **Kindness** --> 
-- **Goodness** --> 
-- **Faithfulness** --> 
-- **Gentleness** --> 
-- **Self-Control** --> 
+The Sabbath, dietary restrictions, ritual cleanliness, and sacrifice are sources of truth and controversy. In our next study, we will seek to learn how these and other practices apply to followers of Christ.
