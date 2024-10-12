@@ -1,4 +1,4 @@
-# Sub-Topics
+# Overview
 1. Relationship
 2. Fruitfullness
 3. Discipleship
@@ -6,8 +6,9 @@
 
 ---
 
-# Review
-## Relationship
+## Primer
+
+### Relationship
 We read in Genesis how God walks with His people. Sin drove man out of the garden. It makes us to set ourselves against righteousness. But we are reconciled through the work of Christ: As a new creation, we are called to live for Him and through Him.
 
 We are saved once and for all time through faith in the gospel. We cannot add to that salvation. Yet we read in [1 Corinthians 3:12-15](https://www.blueletterbible.org/nasb95/1co/3/12-15/s_1065012):
@@ -24,7 +25,7 @@ The Kingdom of God is built on roles and relationships. God is a father, a king,
 
 The [flesh](https://www.blueletterbible.org/nasb95/gal/5/16-17/s_1096016) cannot do the will of God. Even the "good" we do is [useless](https://www.blueletterbible.org/nasb95/isa/64/6/s_743006). What sort of people, then, ought we be? ([2 Peter 3:11-14](https://www.blueletterbible.org/nasb95/2pe/3/11-14/s_1159011))
 
-## Fruitfullness
+### Fruitfullness
 When we are filled with the Spirit, it is evidenced by our behavior, thoughts, and speech. When are hearts are inclined toward Christ, and the Word is our meditation, we are fruitful.
 
 The [wise virgins](https://www.blueletterbible.org/nasb95/mat/25/1-13/s_954001) were prepared when the bridegroom arrived. The oil in their lamps is a sign of their [vigilance](https://www.blueletterbible.org/nasb95/1pe/5/6-10/s_1156006). The importance of preparedness is especially important when deception is rampant and persecution increases. If we do not know what God has to say about a thing, if we are driven by opinion and speculation, how can we be [ready to serve](https://www.blueletterbible.org/nasb95/2ti/2/20-26/s_1127020) YWHW?
@@ -33,5 +34,6 @@ Therefore, to be [faithful servants](https://www.blueletterbible.org/nasb95/heb/
 
 When firmly rooted in the truth, we will be sustained in every season and bear fruit in the appointed time.
 
-# Dsicipleship
+### Discipleship
 
+### Ministry
