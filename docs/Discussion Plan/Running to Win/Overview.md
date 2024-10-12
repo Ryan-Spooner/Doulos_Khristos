@@ -35,5 +35,11 @@ Therefore, to be [faithful servants](https://www.blueletterbible.org/nasb95/heb/
 When firmly rooted in the truth, we will be sustained in every season and bear fruit in the appointed time.
 
 ### Discipleship
+Our walk has two important channels. Most essential is our relationship to the Lord. The second deals with our treatment of other people. The apostles journeyed through the world, not to baptise or win converts. They wanted to inspire those called of God to leave everything to follow after Christ.
+
+It is not enough to declare oneself saved by the blood of Jesus. A wise teacher desires his pupil adopt a lifelong pursuit and love for knowledge. That same teacher's success depends on the example he sets, his integrity, and his discipline.
+
+Mature believers must be temperate, gentle, able to exhort and encourage the weak and reprove the backlidder ([Titus 1:7-9](https://www.blueletterbible.org/nasb95/tit/1/7-9/s_1130007); [1 Timothy 3:1-13](https://www.blueletterbible.org/nasb95/1ti/3/1-13/s_1122001); [2 Corinthians 6:3-10](https://www.blueletterbible.org/nasb95/2co/6/3-10/s_1084003)). 
 
 ### Ministry
+As we become established in the faith, we are to recognize our place in the body and use our gifts to support the saints ([Galatians 6:6-10](https://www.blueletterbible.org/nasb95/gal/6/6-10/s_1097006)). We must shine like stars, proclaiming His name until the end of the age.
